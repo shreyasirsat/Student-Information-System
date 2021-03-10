@@ -1,0 +1,73 @@
+﻿STUDENT INFORMATION SYSTEM
+
+              NAMES                                                                                                            ROLL NO.
+1) Shreya Machindra Sirsat                                                                       203331076
+
+Student Information System
+
+	Student information system aims to reduce teachers and student efforts. Teacher efforts to remember and distribute marks for a student and also assist him/her on internal evaluation. 
+For the student, it reduces the need for saving their progress at every step of the way by providing a platform to see them their progress and improve them along with the time. 
+
+
+
+Existing System :
+
+Currently, the process of managing some information of students like academic(semester wise and subject wise marks),sports(score of sports activities),curricular details is file based and manual. 
+Which is very hectic for teachers to manage all the data and the paperwork. 
+
+
+Proposed System :
+
+The proposed Student Information system will reduce the efforts of teachers and students too.
+In this application, we aim to have functionalities like,
+
+    • adding new student
+    • removing a student 
+    • updating students marks 
+    • enter student marks 
+    • enter student score of internal assessment and all things considered about storing the students' info (all personal , academic , sports , curricular activities).
+    • which will reduce the time of students to  go to the particular teacher to know the marks of particular subject. 
+    • It will also reduce the time of teachers to visit every class of student to show the marks of their corresponding subject.
+
+
+Feasibility study:
+
+economical feasibility :
+	
+	The system is economically feasibly because it do not require any highly costed devices . So it is economically feasible as the software and hardware require are open sourced and they are freely available .
+
+
+Operational feasibility:
+
+		The system is very feasible to operate it. The UI of the system is very user friendly. So anyone can operate it so easily. The ui designed is simple clear that makes the system operationally feasible.
+
+
+Technical feasiblity:
+
+		The system is also technically feasible as it will provide all the required functions in the system. We can use the softwares like Netbeans , Eclipse ,intellj IDE , my sql, or postgresql and the hardware requirement are hard disk- 2GB , RAM -2GB, and a dure core 1.3GHz processor or more.
+
+
+Software Requirements :
+
+1) Linux operating System
+2) NetBeans / Eclipse /Intellj IDE
+3) Mysql / Postgresql
+
+
+Hardware Requirements :
+
+1) Hard Disk-2GB or higher
+2) RAM-2GB or higher
+3) Processor: Dual Core 1.3 GHz or above
+
+
+Technologies Used :
+
+1) Java
+2) JSP
+3) Mysql Server
+4) HTML
+5) CSS
+6) JS
+
+
